@@ -4,7 +4,7 @@ Guidelines for AI agents working on the GeneoGraph landing repository.
 
 ## Project Overview
 
-GeneoGraph landing is a static multi-page site (English + Russian) for the GeneoGraph genealogy research workspace. It has no build tooling, no package manager and no framework: plain HTML, CSS and vanilla JavaScript in `src/` are deployed as-is to GitHub Pages by `.github/workflows/deploy-landing.yml` (the workflow just copies `src/` to `dist/`). The primary conversion is the "Try Demo" CTA pointing to `https://imesense.github.io/geneograph-prototype/`.
+GeneoGraph landing is a static multi-page site (English + Russian) for the GeneoGraph genealogy research workspace. It has no build tooling, no package manager and no framework: plain HTML, CSS and vanilla JavaScript in `src/` are deployed as-is to GitHub Pages by `.github/workflows/deploy-landing.yml` (the workflow just copies `src/` to `dist/`). The primary conversion is the "Try Demo" CTA pointing to `https://geneograph-team.github.io/geneograph-prototype/`.
 
 Before making content or design changes, read:
 

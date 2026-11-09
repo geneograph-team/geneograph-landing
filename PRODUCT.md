@@ -26,7 +26,7 @@ Researchers often work across a family tree, scans, photographs, notes, spreadsh
 
 - Product/company capitalization: **GeneoGraph**. Board/workspace capitalization: **Geneograph**.
 - The interactive application is a prototype, not a finished production product. The landing should not present planned capabilities as shipped.
-- The landing is a static site hosted through GitHub Pages. Its demo CTA currently points to `https://imesense.github.io/geneograph-prototype/`.
+- The landing is a static site hosted through GitHub Pages. Its demo CTA currently points to `https://geneograph-team.github.io/geneograph-prototype/`.
 - Local-first projects, portable data and optional future online services are product direction, not a claim of completed functionality.
 - Family Tree and People, Archive and Albums and Notes, connected records, and Geneograph are the four primary landing outcomes: Build, Organize, Connect, Visualize.
 - Geneograph supports flexible presentation and advanced investigation. Hypothesis work is a differentiator, not the main acquisition message.

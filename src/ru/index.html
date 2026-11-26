@@ -7,9 +7,6 @@
         <meta name="description" content="GeneoGraph объединяет семейное дерево, профили людей, фотографии, документы, заметки, места и визуальные исследования в одном пространстве для генеалогии.">
         <title>GeneoGraph - единое пространство для генеалогических исследований</title>
         <link rel="icon" href="../logo.svg" type="image/svg+xml">
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="../Main.css">
         <script src="../ResearchGroup.js" defer></script>
     </head>
@@ -380,15 +377,17 @@
                     <form class="research-form" id="research-form" action="https://api.web3forms.com/submit" method="POST">
                         <input type="hidden" name="access_key" value="c429eef7-bed6-40d4-8b6d-f4e670dfe566">
                         <input type="hidden" name="subject" value="GeneoGraph: запись в исследовательскую группу">
+                        <input type="hidden" name="research_notice_version" value="2026-11-26">
+                        <input type="hidden" name="research_notice_language" value="ru">
                         <div class="research-botcheck" aria-hidden="true"><label for="research-website">Оставьте это поле
                                 пустым</label><input id="research-website" type="checkbox" name="botcheck" tabindex="-1"
                                 autocomplete="off"></div>
                         <label for="research-email">Адрес электронной почты</label>
                         <div class="research-form-row"><input id="research-email" name="email" type="email"
                                 autocomplete="email" inputmode="email" placeholder="you@example.com" required><button
-                                class="research-submit" type="submit">Присоединиться к группе</button></div>
-                        <p class="research-privacy">Мы будем писать вам о новостях исследовательской группы и приглашать к
-                            тестированию. Прочитайте наше <a href="privacy.html">уведомление о конфиденциальности</a>.</p>
+                                class="research-submit" type="submit" aria-describedby="research-privacy">Присоединиться к группе</button></div>
+                        <p class="research-privacy" id="research-privacy">Вступая в группу, вы соглашаетесь получать новости исследовательской группы и приглашения к
+                            тестированию по электронной почте. Согласие можно отозвать в любое время. Прочитайте наше <a href="privacy.html">уведомление о конфиденциальности</a>.</p>
                         <p class="research-status" id="research-status" role="status" aria-live="polite"></p>
                         <p class="research-error" id="research-error" role="alert" hidden>Не удалось отправить адрес.
                             Попробуйте ещё раз или <a
@@ -406,7 +405,7 @@
                         href="#geneograph">Генеограф</a><a
                         href="https://geneograph-team.github.io/geneograph-prototype/?lang=ru">Демо</a><a
                         href="#research-group">Исследовательская группа</a><a href="contact.html">Контакты</a><a
-                        href="privacy.html">Конфиденциальность</a></nav>
+                        href="privacy.html">Конфиденциальность</a><a href="licenses.html">Лицензии</a></nav>
             </div>
         </footer>
     </body>

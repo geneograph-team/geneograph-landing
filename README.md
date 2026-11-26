@@ -7,7 +7,7 @@ First-party website software remains licensed under GNU GPL 3; see
 applicable terms; this does not alter existing grants or confer rights in
 third-party material.
 
-The deployed site exposes [licenses and credits](src/licenses.html)
+The deployed site exposes [licenses and credits](src/legal.html#licenses)
 and the [GPL text](src/LICENSE.txt). Manrope is distributed under the
 [SIL Open Font License 1.1](src/fonts/OFL.txt).
 Keep the deployed GPL text byte-identical to the root license.

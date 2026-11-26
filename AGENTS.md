@@ -15,8 +15,9 @@ Before making content or design changes, read:
 ## Repository Structure
 
 - `src/` — the deployed site root.
-  - `index.html`, `contact.html`, `privacy.html` — English pages.
-  - `ru/index.html`, `ru/contact.html`, `ru/privacy.html` — Russian pages (keep in sync with English versions).
+  - `index.html`, `contact.html`, `legal.html` — English pages.
+  - `ru/index.html`, `ru/contact.html`, `ru/legal.html` — Russian pages (keep in sync with English versions).
+  - `privacy.html`, `licenses.html` and Russian equivalents — compatibility redirects to the respective Legal page anchors; maintain these for existing external links.
   - `Main.css` — single shared stylesheet (design tokens live in `:root`).
   - `ResearchGroup.js` — form handling for the Research Group and contact forms; localizes messages via `document.documentElement.lang === 'ru'`.
   - `prototype-*.png` / `prototype-*.webp` — optimized captures of the Whiskerfield sample project from the separate prototype. Treat as binary assets; do not edit.

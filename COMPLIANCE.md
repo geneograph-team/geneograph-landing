@@ -21,7 +21,7 @@ decisions and confidential legal assessments in restricted records.
   from [SVG Repo](https://www.svgrepo.com/); see its
   [licensing page](https://www.svgrepo.com/page/licensing/).
   Free availability does not establish permission or waive attribution.
-  Verify individual terms where applicable. The EN/RU license pages include
+  Verify individual terms where applicable. The EN/RU Legal pages include
   an attribution and rights reporting route; review reports and correct
   credits, replace or remove affected material as appropriate.
 - PRODUCT.md identifies the Whiskerfield sample project as the screenshot
@@ -77,7 +77,7 @@ Track the following in landing issue #4 and applicable prototype issues.
 
 - Verify legally required controller identity and contact disclosures, lawful
   bases, rights and complaint mechanisms, recipients, retention and transfer
-  safeguards in both privacy notices.
+  safeguards in both Legal page privacy sections.
 - Verify processor/service terms, security, retention/deletion and consent
   and withdrawal processes for hosting, forms, email and optional demo
   services. Retain private agreements and verification evidence separately.
@@ -92,8 +92,8 @@ Track the following in landing issue #4 and applicable prototype issues.
 
 ## QA pending
 
-Test both languages, all six existing pages and both license pages in real
-browser at mobile/desktop widths; check keyboard, font loading, network/storage,
+Test all six primary pages in both languages and the legacy legal URL redirects
+in a real browser at mobile/desktop widths; check keyboard, font loading, network/storage,
 local license/source paths and form validation/success/error using controlled
 test data. Do not send unsolicited submissions. Verify exact deployed artifact
 and links after publication. Record results in the technical tracker.

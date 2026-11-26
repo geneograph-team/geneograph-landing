@@ -110,6 +110,17 @@ The proposal does not modify hosting, licensing grants, or provider accounts.
   access/security and applicable data-processing terms (consumer Gmail is not
   assumed to have an Article 28 processor agreement), transfer assessment,
   anti-spam subprocessors and practical unsubscribe process.
+- **Deferred email-provider decision (26 Nov 2026):** founder chooses to
+  retain the current Gmail inbox for contact and Research Group messages
+  for now. No migration or subscription authorized. Keep the mailbox
+  assessment open: provider roles and terms, any required processor
+  agreement, transfer safeguards, retention/deletion, MFA and access,
+  consent records, withdrawal handling, and BCC or individual delivery for
+  group invitations. Ordinary contact messages do not authorize marketing.
+  Evaluate Google Workspace or another provider with verified applicable
+  terms if needed. Resolve before processing for which the current
+  arrangements are insufficient; revisit on entity establishment or before
+  wider recruitment, whichever comes first. Deferral is not legal clearance.
 - Logo and screenshot/sample-content authorship confirmed by founder. Icons
   are self-created or sourced from SVG Repo; credit added, per-icon terms
   remain unverified. Shared prototype #429 retains any underlying third-party

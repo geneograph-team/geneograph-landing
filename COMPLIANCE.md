@@ -20,7 +20,10 @@ The proposal does not modify hosting, licensing grants, or provider accounts.
   team. Credit SVG Repo and link its [licensing page](https://www.svgrepo.com/page/licensing/).
   Treat free availability as a working assumption, not proof of an individual
   license, attribution waiver or GPL compatibility. Exact icon provenance
-  remains unverified.
+  remains unverified. The EN/RU licenses pages invite attribution and rights
+  reports through the existing contact form. Review reports and correct credits,
+  replace or remove affected materials as appropriate. This correction route
+  does not replace license verification or required permissions and notices.
 - Founder confirms creating the screenshots and their sample content.
   PRODUCT.md identifies the Whiskerfield sample project as the source.
   Record this as founder-supplied authorship evidence, not independent rights

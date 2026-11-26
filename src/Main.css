@@ -1141,6 +1141,16 @@ p {
     color: var(--green)
 }
 
+.legal-license-list {
+    margin-top: 12px;
+    padding-left: 24px;
+    color: var(--soft)
+}
+
+.legal-license-list li + li {
+    margin-top: 6px
+}
+
 .contact-main {
     padding: clamp(64px, 7vw, 106px) 0 clamp(82px, 9vw, 130px)
 }

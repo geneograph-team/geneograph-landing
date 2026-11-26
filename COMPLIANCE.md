@@ -44,6 +44,17 @@ decisions and confidential legal assessments in restricted records.
 - `src/prototype-people-profile-updated.png` — referenced in HTML; project-created capture/content; verify applicable third-party rights.
 - `src/prototype-people-profile.webp` — not found in HTML src/srcset references; project-created capture/content; verify applicable third-party rights.
 
+## Shared website and demo notices
+
+The EN/RU Legal pages cover the website and interactive demo. The
+`src/third-party-licenses/` directory contains byte-identical copies of the
+prototype's nine primary library license files and map-style license notice.
+The prototype retains its original distributed license files. When updating a
+prototype vendor version, reconcile the published component index and copied
+license text with the corresponding original. Keep upstream notices intact.
+The landing owns user-facing privacy and license content; the demo links to
+its localized sections. Publish landing changes before dependent demo updates.
+
 ## Privacy and service evidence (reviewed 26 Nov 2026)
 
 - [GDPR Articles 6, 13 and 15–22](https://eur-lex.europa.eu/eli/reg/2016/679/oj):

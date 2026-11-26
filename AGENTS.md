@@ -54,6 +54,7 @@ The project must stay a decomposed static site at all times — during refactors
 
 - Capitalization: the product is **GeneoGraph**; the visual board/workspace is **Geneograph**.
 - The interactive application is a prototype. Never present planned capabilities as shipped; distinguish prototype behavior from product direction.
+- Public privacy and license notices must use concise, professional, user-facing language. Include applicable rights, legal terms, material data flows, required notices and attribution; keep audit records, issue/PR references, internal deliberations, account/billing details and provenance discussions outside the website. Do not make unsupported claims about permissions or compliance. Preserve legally necessary disclosures, attribution and effective source access. Obtain approval before changing source-distribution or hosting arrangements.
 - Use the Whiskerfield sample project (Silver Whiskerfield, Luna Purrington, the Meowbridge marriage record) consistently across module views. This is sample data, not historical records.
 - Keep the charcoal/near-black + GeneoGraph green identity (`#0b100e` background, `#66d58f` primary, `#e3b579` for "possible" relationships). Amber is reserved for possible/uncertain relationships only.
 - Typography: Manrope for display and body; content width capped at 1320px.
